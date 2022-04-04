@@ -1,2 +1,2 @@
 # KurbatovBOT
-VERY simple VK BOT
+VERY simple VK BOTa
